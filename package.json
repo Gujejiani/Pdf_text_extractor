@@ -17,5 +17,8 @@
     "express-fileupload": "^1.4.0",
     "nodemon": "^2.0.22",
     "pdf-parse": "^1.1.1"
+  },
+  "engines": {
+    "node": "18.13"
   }
 }
