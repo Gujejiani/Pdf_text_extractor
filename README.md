@@ -1,3 +1,9 @@
+#USEAGE
+
+## pdf file should send on this url https://extract-text.herokuapp.com/extract-text
+
+# received response will include text from that pdf file
+
 #Heroku Deployment
 
 1. heroku login
